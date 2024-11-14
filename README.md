@@ -1,2 +1,2 @@
-# projeto_final
- Projeto final de Python.
+# CRUDTrecos
+Um gerenciador de coleções em Python, Flask e MySQL.
